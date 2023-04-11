@@ -1,0 +1,21 @@
+.header {
+  border-bottom: 1px solid gray;
+}
+
+.name {
+  margin-bottom: 5px;
+}
+
+.profession {
+  margin-bottom: 10px;
+}
+
+.contacts {
+  margin-bottom: 20px;
+}
+
+.summary {
+  font-size: 18px;
+  white-space: pre-wrap;
+  margin-bottom: 15px;
+}
